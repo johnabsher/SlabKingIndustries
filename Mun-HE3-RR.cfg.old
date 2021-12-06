@@ -1,0 +1,9 @@
+@PLANETARY_RESOURCE:HAS[#ResourceName[LqdHe3],#PlanetName[Kerbin]]:AFTER[FarFutureTechnologies]
+{
+  %Tag = Spared-FFT
+}
+
+@PLANETARY_RESOURCE:HAS[#ResourceName[LqdHe3],#PlanetName[Mun]]:AFTER[FarFutureTechnologies]
+{
+  %Tag = Spared-FFT
+}

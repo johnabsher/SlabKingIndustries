@@ -1,0 +1,75 @@
++PLANETARY_RESOURCE:HAS[#Tag[SrfSilica]]:NEEDS[MPE]
+{
+	@PlanetName = Edas
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfRock]]:NEEDS[MPE]
+{
+	@PlanetName = Vant
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfRockMetal]]:NEEDS[MPE]
+{
+	@PlanetName = Zore
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfRockIce]]:NEEDS[MPE]
+{
+	@PlanetName = Lint-Mikey
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfRockIce]]:NEEDS[MPE]
+{
+	@PlanetName = Crokslev
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceNitrogen]]:NEEDS[MPE]
+{
+	@PlanetName = Geito
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceWater]]:NEEDS[MPE]
+{
+	@PlanetName = Havous 
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceWater]]:NEEDS[MPE]
+{
+	@PlanetName = Kal 
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceWater]]:NEEDS[MPE]
+{
+	@PlanetName = Ki'Ki
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceMethane]]:NEEDS[MPE]
+{
+	@PlanetName = Mracksis 
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceNitrogen]]:NEEDS[MPE]
+{
+	@PlanetName = Flake 
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceMethane]]:NEEDS[MPE]
+{
+	@PlanetName = Ervo 
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceMethane]]:NEEDS[MPE]
+{
+	@PlanetName = Archae 
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceMethane]]:NEEDS[MPE]
+{
+	@PlanetName = Soden
+	@Tag = Applied
+}
++PLANETARY_RESOURCE:HAS[#Tag[SrfIceMethane]]:NEEDS[MPE]
+{
+	@PlanetName = Lon
+	@Tag = Applied
+}
