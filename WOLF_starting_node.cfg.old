@@ -1,5 +1,0 @@
-//Move WOLF tech to the initial node
-@PART[Konstruction_Orbital_Shipyard_*|WOLF_*|SurfaceScanner]:AFTER[MKS]{
-@TechRequired = start
-@entryCost = 0
-}
