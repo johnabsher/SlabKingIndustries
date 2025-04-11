@@ -4,7 +4,7 @@
     <OutputType>Library</OutputType>
     <AssemblyName>KerbalismLabExperimentsExpandedContinued</AssemblyName>
     <RootNamespace>KerbalismLabExperimentsExpandedContinued</RootNamespace>
-    <OutputPath>GameData/plugin</OutputPath>
+    <OutputPath>KerbalismLabExperimentsExpandedContinued/plugin</OutputPath>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
   <ItemGroup>
